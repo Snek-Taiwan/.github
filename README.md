@@ -10,8 +10,6 @@
 
   <p>
     <a href="https://www.snek.com.tw"><img src="https://img.shields.io/badge/🌐_官方入口網-snek.com.tw-00e676?style=for-the-badge&logoColor=black" alt="Portal" /></a>
-    <a href="https://line.me/ti/g2/QudT_aHZ53TUwKwOMe1uLxyraC9oSPQjTXRBJA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default"><img src="https://img.shields.io/badge/💬_LINE_推廣社群-立即加入-06C755?style=for-the-badge&logo=line&logoColor=white" alt="LINE" /></a>
-    <a href="https://t.me/+WO8inwA4EMYzYzNl"><img src="https://img.shields.io/badge/📢_Telegram-繁中交流群-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
     <a href="https://x.com/snek"><img src="https://img.shields.io/badge/🐦_官方_X-@snek-black?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   </p>
 
