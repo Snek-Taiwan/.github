@@ -54,22 +54,16 @@
 - **代幣名稱**：`SNEK`
 - **Policy ID**：`279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b`
 - **區塊鏈**：Cardano Mainnet
-- **鏈上瀏覽器驗證**：
-  - 🔍 [CardanoScan 查詢](https://cardanoscan.io/token/279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b)
-  - 🖼️ [Pool.pm 視覺化錢包](https://pool.pm/279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b.SNEK)
-  - 📈 [TapTools 即時行情](https://www.taptools.io/charts/token?pairID=0be55d26ec51622602a19e2a77da701e43f8717eee088de69b51eec87d387997.279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b.534e454b)
+- **鏈上瀏覽器驗證**：[CardanoScan 查詢](https://cardanoscan.io/token/279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b)
 
 ---
 
-### 💬 立即加入社群交流！
+### 🌐 探索更多社群精彩內容
 
-想跟台灣的蛇友們聊行情、分享迷因或參與社群活動嗎？歡迎加入我們的官方頻道：
+想跟台灣的蛇友們交流、參與活動或探索更多鏈上工具？  
+所有最新社群動態、討論群組與即時資訊皆已整合於官網，歡迎隨時造訪：
 
-- 🟢 **LINE 台灣推廣社群**：[點我加入 LINE 群組](https://line.me/ti/g2/QudT_aHZ53TUwKwOMe1uLxyraC9oSPQjTXRBJA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
-- 🔵 **Telegram 繁中交流群**：[點我加入 Telegram](https://t.me/+WO8inwA4EMYzYzNl)
-- 🐦 **SNEK 官方 X (Twitter)**：[@snek](https://x.com/snek)
-- 🌐 **SNEK 全球官網**：[www.snek.com](https://www.snek.com/)
-- 📊 **持倉分佈與排名**：[Snekboard](https://snekboard.com/)
+👉 [**前往 SNEK 台灣官方網站 (www.snek.com.tw)**](https://www.snek.com.tw/)
 
 ---
 
